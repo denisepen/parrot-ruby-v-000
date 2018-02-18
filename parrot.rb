@@ -1,4 +1,4 @@
-def parrot(value = "Squawk")
+def parrot(value = "Squawk!")
   puts value
   value
 
